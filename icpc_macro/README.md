@@ -2,6 +2,9 @@
 
 ---
 
+참고한 자료입니다 : https://tinycaterpillar.tistory.com/145?category=967162
+  
+
 가장 첫번째 셀은 설정 셀입니다.
 
 `csv_name`:  
